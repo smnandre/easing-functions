@@ -1,6 +1,6 @@
 {
     "name": "smnandre/easing-functions",
-    "description": "Timing & easing functions - PHP nano lib - Linear, EaseIn, Cubic-Bezier ...",
+    "description": "Easing & Timing Functions - Cubic-Bezier, EaseIn, Quad ...",
     "license": "MIT",
     "type": "library",
     "keywords": [
@@ -27,6 +27,7 @@
     },
     "require-dev": {
         "php-cs-fixer/shim": "^3.59",
+        "phpstan/phpstan": "^2.1",
         "phpunit/phpunit": "^11.2"
     },
     "autoload": {
