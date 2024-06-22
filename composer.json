@@ -1,0 +1,42 @@
+{
+    "name": "smnandre/easing-functions",
+    "description": "Timing & easing functions - PHP nano lib - Linear, EaseIn, Cubic-Bezier ...",
+    "license": "MIT",
+    "type": "library",
+    "keywords": [
+        "easing",
+        "timing",
+        "functions",
+        "cubic-bezier",
+        "linear",
+        "ease-in",
+        "ease-out",
+        "ease-in-out",
+        "transition",
+        "animation",
+        "interpolation"
+    ],
+    "authors": [
+        {
+            "name": "Simon André",
+            "email": "smn.andre@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.3"
+    },
+    "require-dev": {
+        "php-cs-fixer/shim": "^3.59",
+        "phpunit/phpunit": "^11.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Easing\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Easing\\Tests\\": "tests/"
+        }
+    }
+}
