@@ -16,9 +16,9 @@
 
 | x     |                            In                            |                               InOut                               |                             Out                             |
 |-------|:--------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------:|
-| Cubic | ![Ease In Cubic](img/easeInCubic.svg) <br> `easeCubicIn` | ![Ease InOut Cubic](img/easeInOutCubic.svg) <br> `easeCubicInOut` | ![Ease Out Cubic](img/easeOutCubic.svg) <br> `easeCubicOut` |
-| Quart | ![Ease In Quart](img/easeInQuart.svg) <br> `easeQuartIn` | ![Ease InOut Quart](img/easeInOutQuart.svg) <br> `easeQuartInOut` | ![Ease Out Quart](img/easeOutQuart.svg) <br> `easeQuartOut` |
-| Quad  |  ![Ease In Quad](img/easeInQuad.svg) <br> `easeQuadIn`   |  ![Ease InOut Quad](img/easeInOutQuad.svg) <br> `easeQuadInOut`   |  ![Ease Out Quad](img/easeOutQuad.svg) <br> `easeQuadOut`   |
+| Cubic | ![Ease In Cubic](img/easeInCubic.svg) <br> `easeInCubic` | ![Ease InOut Cubic](img/easeInOutCubic.svg) <br> `easeInOutCubic` | ![Ease Out Cubic](img/easeOutCubic.svg) <br> `easeOutCubic` |
+| Quart | ![Ease In Quart](img/easeInQuart.svg) <br> `easeInQuart` | ![Ease InOut Quart](img/easeInOutQuart.svg) <br> `easeInOutQuart` | ![Ease Out Quart](img/easeOutQuart.svg) <br> `easeOutQuart` |
+| Quad  |  ![Ease In Quad](img/easeInQuad.svg) <br> `easeInQuad`   |  ![Ease InOut Quad](img/easeInOutQuad.svg) <br> `easeInOutQuad`   |  ![Ease Out Quad](img/easeOutQuad.svg) <br> `easeOutQuad`   |
 
 ## Installation
 
