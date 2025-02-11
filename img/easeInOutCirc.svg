@@ -1,0 +1,29 @@
+<svg width="220" height="80" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 80">
+  <!--
+  PHP Easing Functions
+  Author: Simon André <smn.andre@gmail.com>
+  https://github.com/smnandre/easing-functions
+  Licence: MIT
+  -->
+  <title>PHP easeInOutCirc function</title>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset='0%' stop-color='hsl(236.99812265258, 100%, 50%)'/><stop offset='2.5%' stop-color='hsl(230.97172640331, 100%, 50%)'/><stop offset='5%' stop-color='hsl(224.87654293833, 100%, 50%)'/><stop offset='7.5%' stop-color='hsl(218.66376107763, 100%, 50%)'/><stop offset='10%' stop-color='hsl(212.2798546526, 100%, 50%)'/><stop offset='12.5%' stop-color='hsl(205.66407567622, 100%, 50%)'/><stop offset='15%' stop-color='hsl(198.74519602275, 100%, 50%)'/><stop offset='17.5%' stop-color='hsl(191.43705415538, 100%, 50%)'/><stop offset='20%' stop-color='hsl(183.63219836021, 100%, 50%)'/><stop offset='22.5%' stop-color='hsl(175.19243714364, 100%, 50%)'/><stop offset='25%' stop-color='hsl(165.93420153616, 100%, 50%)'/><stop offset='27.5%' stop-color='hsl(155.60482938119, 100%, 50%)'/><stop offset='30%' stop-color='hsl(143.84209842848, 100%, 50%)'/><stop offset='32.5%' stop-color='hsl(130.1007244218, 100%, 50%)'/><stop offset='35%' stop-color='hsl(113.50796378847, 100%, 50%)'/><stop offset='37.5%' stop-color='hsl(92.549213361245, 100%, 50%)'/><stop offset='40%' stop-color='hsl(64.278450342329, 100%, 50%)'/><stop offset='42.5%' stop-color='hsl(21.857296107433, 100%, 50%)'/><stop offset='45%' stop-color='hsl(0, 100%, 50%)'/><stop offset='47.5%' stop-color='hsl(0, 100%, 50%)'/><stop offset='50%' stop-color='hsl(0, 100%, 50%)'/><stop offset='52.5%' stop-color='hsl(0, 100%, 50%)'/><stop offset='55%' stop-color='hsl(21.857296107433, 100%, 50%)'/><stop offset='57.5%' stop-color='hsl(64.278450342329, 100%, 50%)'/><stop offset='60%' stop-color='hsl(92.549213361245, 100%, 50%)'/><stop offset='62.5%' stop-color='hsl(113.50796378847, 100%, 50%)'/><stop offset='65%' stop-color='hsl(130.1007244218, 100%, 50%)'/><stop offset='67.5%' stop-color='hsl(143.84209842848, 100%, 50%)'/><stop offset='70%' stop-color='hsl(155.60482938119, 100%, 50%)'/><stop offset='72.5%' stop-color='hsl(165.93420153616, 100%, 50%)'/><stop offset='75%' stop-color='hsl(175.19243714364, 100%, 50%)'/><stop offset='77.5%' stop-color='hsl(183.63219836021, 100%, 50%)'/><stop offset='80%' stop-color='hsl(191.43705415538, 100%, 50%)'/><stop offset='82.5%' stop-color='hsl(198.74519602275, 100%, 50%)'/><stop offset='85%' stop-color='hsl(205.66407567622, 100%, 50%)'/><stop offset='87.5%' stop-color='hsl(212.2798546526, 100%, 50%)'/><stop offset='90%' stop-color='hsl(218.66376107763, 100%, 50%)'/><stop offset='92.5%' stop-color='hsl(224.87654293833, 100%, 50%)'/><stop offset='95%' stop-color='hsl(230.97172640331, 100%, 50%)'/><stop offset='97.5%' stop-color='hsl(236.99812265258, 100%, 50%)'/>
+    </linearGradient>
+  </defs>
+  <style>
+    .line {
+      fill: none;
+      stroke: url(#gradient);
+      stroke-width: 2;
+      stroke-dasharray: 218.63255147135;
+      stroke-dashoffset: 218.63255147135;
+      animation: draw 2s linear infinite;
+    }
+    @keyframes draw {
+      to { stroke-dashoffset: 0; }
+    }
+  </style>
+  <rect width="100%" height="100%" fill="black"/>
+  <polyline points="10,70 15,69.962 20,69.85 25,69.661 30,69.394 35,69.047 40,68.618 45,68.102 50,67.495 55,66.791 60,65.981 65,65.055 70,64 75,62.798 80,61.424 85,59.843 90,58 95,55.803 100,53.077 105,49.367 110,40 115,30.633 120,26.923 125,24.197 130,22 135,20.157 140,18.576 145,17.202 150,16 155,14.945 160,14.019 165,13.209 170,12.505 175,11.898 180,11.382 185,10.953 190,10.606 195,10.339 200,10.15 205,10.038 210,10" class="line"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="160" height="60" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 60">
+  <!--
+  PHP Easing Functions
+  Author: Simon André <smn.andre@gmail.com>
+  https://github.com/smnandre/easing-functions
+  Licence: MIT
+  -->
+  <title>PHP easeOut Back function</title>
+  <polyline fill="none" stroke="#9d9b9e" stroke-width="3" stroke-linecap="round" points="10,50 14.667,44.012 19.333,38.569 24,33.647 28.667,29.222 33.333,25.27 38,21.768 42.667,18.69 47.333,16.014 52,13.715 56.667,11.768 61.333,10.151 66,8.839 70.667,7.808 75.333,7.033 80,6.492 84.667,6.16 89.333,6.012 94,6.026 98.667,6.176 103.333,6.44 108,6.792 112.667,7.209 117.333,7.667 122,8.142 126.667,8.61 131.333,9.046 136,9.427 140.667,9.73 145.333,9.928 150,10 "/>
+</svg>

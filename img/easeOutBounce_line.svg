@@ -1,0 +1,10 @@
+<svg width="160" height="60" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 60">
+  <!--
+  PHP Easing Functions
+  Author: Simon André <smn.andre@gmail.com>
+  https://github.com/smnandre/easing-functions
+  Licence: MIT
+  -->
+  <title>PHP easeOut Bounce function</title>
+  <polyline fill="none" stroke="#9d9b9e" stroke-width="3" stroke-linecap="round" points="10,50 14.667,49.664 19.333,48.656 24,46.975 28.667,44.622 33.333,41.597 38,37.9 42.667,33.531 47.333,28.489 52,22.775 56.667,16.389 61.333,10.331 66,13.6 70.667,16.197 75.333,18.122 80,19.375 84.667,19.956 89.333,19.864 94,19.1 98.667,17.664 103.333,15.556 108,12.775 112.667,10.322 117.333,11.697 122,12.4 126.667,12.431 131.333,11.789 136,10.475 140.667,10.489 145.333,10.581 150,10 "/>
+</svg>

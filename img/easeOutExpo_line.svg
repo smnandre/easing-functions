@@ -1,0 +1,10 @@
+<svg width="160" height="60" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 60">
+  <!--
+  PHP Easing Functions
+  Author: Simon André <smn.andre@gmail.com>
+  https://github.com/smnandre/easing-functions
+  Licence: MIT
+  -->
+  <title>PHP easeOut Expo function</title>
+  <polyline fill="none" stroke="#9d9b9e" stroke-width="3" stroke-linecap="round" points="10,50 14.667,41.748 19.333,35.198 24,30 28.667,25.874 33.333,22.599 38,20 42.667,17.937 47.333,16.3 52,15 56.667,13.969 61.333,13.15 66,12.5 70.667,11.984 75.333,11.575 80,11.25 84.667,10.992 89.333,10.787 94,10.625 98.667,10.496 103.333,10.394 108,10.313 112.667,10.248 117.333,10.197 122,10.156 126.667,10.124 131.333,10.098 136,10.078 140.667,10.062 145.333,10.049 150,10 "/>
+</svg>

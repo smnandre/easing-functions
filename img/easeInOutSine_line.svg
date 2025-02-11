@@ -1,0 +1,10 @@
+<svg width="160" height="60" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 60">
+  <!--
+  PHP Easing Functions
+  Author: Simon André <smn.andre@gmail.com>
+  https://github.com/smnandre/easing-functions
+  Licence: MIT
+  -->
+  <title>PHP easeInOut Sine function</title>
+  <polyline fill="none" stroke="#9d9b9e" stroke-width="3" stroke-linecap="round" points="10,50 14.667,49.89 19.333,49.563 24,49.021 28.667,48.271 33.333,47.321 38,46.18 42.667,44.863 47.333,43.383 52,41.756 56.667,40 61.333,38.135 66,36.18 70.667,34.158 75.333,32.091 80,30 84.667,27.909 89.333,25.842 94,23.82 98.667,21.865 103.333,20 108,18.244 112.667,16.617 117.333,15.137 122,13.82 126.667,12.679 131.333,11.729 136,10.979 140.667,10.437 145.333,10.11 150,10 "/>
+</svg>

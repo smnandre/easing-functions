@@ -1,0 +1,10 @@
+<svg width="160" height="60" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 60">
+  <!--
+  PHP Easing Functions
+  Author: Simon André <smn.andre@gmail.com>
+  https://github.com/smnandre/easing-functions
+  Licence: MIT
+  -->
+  <title>PHP easeIn Circ function</title>
+  <polyline fill="none" stroke="#9d9b9e" stroke-width="3" stroke-linecap="round" points="10,50 14.667,49.978 19.333,49.911 24,49.799 28.667,49.643 33.333,49.441 38,49.192 42.667,48.896 47.333,48.552 52,48.158 56.667,47.712 61.333,47.214 66,46.661 70.667,46.049 75.333,45.377 80,44.641 84.667,43.836 89.333,42.958 94,42 98.667,40.955 103.333,39.814 108,38.566 112.667,37.195 117.333,35.682 122,34 126.667,32.111 131.333,29.956 136,27.436 140.667,24.36 145.333,20.242 150,10 "/>
+</svg>

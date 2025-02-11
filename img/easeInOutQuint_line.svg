@@ -1,0 +1,10 @@
+<svg width="160" height="60" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 60">
+  <!--
+  PHP Easing Functions
+  Author: Simon André <smn.andre@gmail.com>
+  https://github.com/smnandre/easing-functions
+  Licence: MIT
+  -->
+  <title>PHP easeInOut Quint function</title>
+  <polyline fill="none" stroke="#9d9b9e" stroke-width="3" stroke-linecap="round" points="10,50 14.667,50 19.333,49.999 24,49.994 28.667,49.973 33.333,49.918 38,49.795 42.667,49.557 47.333,49.137 52,48.445 56.667,47.366 61.333,45.758 66,43.446 70.667,40.221 75.333,35.835 80,30 84.667,24.165 89.333,19.779 94,16.554 98.667,14.242 103.333,12.634 108,11.555 112.667,10.863 117.333,10.443 122,10.205 126.667,10.082 131.333,10.027 136,10.006 140.667,10.001 145.333,10 150,10 "/>
+</svg>

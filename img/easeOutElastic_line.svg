@@ -1,0 +1,10 @@
+<svg width="160" height="60" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 60">
+  <!--
+  PHP Easing Functions
+  Author: Simon André <smn.andre@gmail.com>
+  https://github.com/smnandre/easing-functions
+  Licence: MIT
+  -->
+  <title>PHP easeOut Elastic function</title>
+  <polyline fill="none" stroke="#9d9b9e" stroke-width="3" stroke-linecap="round" points="10,50 14.667,34.32 19.333,14.376 24,0 28.667,-4.917 33.333,-1.839 38,5 42.667,11.378 47.333,14.826 52,15 56.667,13.04 61.333,10.547 66,8.75 70.667,8.135 75.333,8.52 80,9.375 84.667,10.172 89.333,10.603 94,10.625 98.667,10.38 103.333,10.068 108,9.844 112.667,9.767 117.333,9.815 122,9.922 126.667,10.022 131.333,10.075 136,10.078 140.667,10.048 145.333,10.009 150,10 "/>
+</svg>
