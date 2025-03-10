@@ -24,7 +24,7 @@ Each of them is available in three variations:
 
 ## Easing Functions
 
-| x       |                               In                               |                               InOut                               |                                   Out                                   |
+| x       |                               In                               |                                Out                                |                                   InOut                                 |
 |---------|:--------------------------------------------------------------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------------:|
 | Cubic   |    ![Ease In Cubic](img/easeInCubic.svg) <br> `easeInCubic`    |    ![Ease Out Cubic](img/easeOutCubic.svg) <br> `easeOutCubic`    |    ![Ease InOut Cubic](img/easeInOutCubic.svg) <br> `easeInOutCubic`    |
 | Quart   |    ![Ease In Quart](img/easeInQuart.svg) <br> `easeInQuart`    |    ![Ease Out Quart](img/easeOutQuart.svg) <br> `easeOutQuart`    |    ![Ease InOut Quart](img/easeInOutQuart.svg) <br> `easeInOutQuart`    |
